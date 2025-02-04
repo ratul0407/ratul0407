@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ratul0407)](https://git.io/streak-stats)
+<div class="align-center">
+  <a href="https://git.io/streak-stats">
+    <img  src="https://nirzak-streak-stats.vercel.app?user=ratul0407"/>
+  </a>
+</div>
 
