@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="align-center">
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img  src="https://nirzak-streak-stats.vercel.app?user=ratul0407"/>
   </a>
