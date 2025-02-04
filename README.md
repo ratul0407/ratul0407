@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div class="align-center">
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ratul0407)](https://git.io/streak-stats)
+</div>
