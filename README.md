@@ -51,10 +51,7 @@
   <a href="https://www.facebook.com/Ratul0407">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/Ratulx7">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/ratul0407">
+  <a href="https://www.linkedin.com/in/ratul0407">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
 </div>
