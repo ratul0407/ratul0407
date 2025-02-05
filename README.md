@@ -1,9 +1,10 @@
-<img src="https://github.com/user-attachments/assets/b2a8709b-376e-436e-a8b4-e3b552af8036"/>
+<img src="https://github.com/user-attachments/assets/96f23700-9a16-4a0b-8f8d-db640b8b89d7"/>
 <div align="center">
   <h2>Hi, There I'm Ratul👋</h2>
   <div>
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ratul0407&theme=dark"/>
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul0407&theme=dark"/>
+
   </div>
 </div>
 <div align="center">
