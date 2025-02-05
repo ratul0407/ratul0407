@@ -6,7 +6,9 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul0407"/>
   </div>
 </div>
-
+<div align="center">
+<img alt="streak-count" src="https://streak-stats.demolab.com/?user=ratul0407"/>
+</div>
 <h2 align="center">About Me👀</h2>
 <div>
   <p align="left">
@@ -53,4 +55,5 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
 
