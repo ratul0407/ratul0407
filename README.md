@@ -55,5 +55,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
 </div>
+<strong>Phone No: +8801983411249📞</strong>
+  
 
 
