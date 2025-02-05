@@ -12,3 +12,4 @@
     <li>I'll make Portfolio Website for me in the next few days🎉</li>
   </ul>
 </div>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul0407)](https://github.com/anuraghazra/github-readme-stats)
