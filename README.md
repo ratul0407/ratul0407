@@ -37,7 +37,7 @@
 <div>
   <ul>
     <li>Currently Learning ReactJS and Socket.io✨</li>
-    <li>Working on PlantLife😎 (An E-commerce Project of mine)</li>
+    <li>Working on an E-commerce Project of mine 😎</li>
     <li>Planning to make my Portfolio Website soon🎉</li>
   </ul>
 </div>
