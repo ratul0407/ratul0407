@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=ratul0407&theme=dark" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=ratul0407&theme=susnet-gradient" alt="GitHub Streak" />
   </a>
 </div>
 <h2 align="center">About Me👀</h2>
