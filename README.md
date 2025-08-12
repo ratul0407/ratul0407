@@ -2,15 +2,12 @@
 <div align="center">
   <h2>Hi, There I'm Ratul👋</h2>
   <div>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ratul0407&theme=dark"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul0407&theme=dark"/>
-
+    <img width="50%" src="https://nirzak-streak-stats.vercel.app?user=ratul0407&theme=bear" alt="GitHub Streak" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ratul0407&theme=bear&width=400"/>
   </div>
 </div>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=ratul0407&theme=susnet-gradient" alt="GitHub Streak" />
-  </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul0407&theme=bear"/>
 </div>
 <h2 align="center">About Me👀</h2>
 <div>
