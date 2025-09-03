@@ -1,6 +1,6 @@
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=CA4F4F&width=435&lines=Hi+There+I+am+Ratul" alt="Typing SVG" /></a>
 <div align="center">
-  <h2>Hi, There I'm Ratul👋</h2>
 <div style="text-align: center;">
     <img width="70%" src="https://nirzak-streak-stats.vercel.app?user=ratul0407&theme=blood-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 <!--     <img style="display: inline-block; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=ratul0407&theme=bear" alt="GitHub Stats" /> -->
@@ -9,7 +9,7 @@
 <h2 align="center">About Me👀</h2>
 <div>
   <p align="left">
-    Hi, My name is MD. Rajaul Islam Ratul. I am a web developer with expertise in React.js, TailwindCSS, and DaisyUI. I'm currently learning Next.js and have experience building server-side APIs using Express.js. I also work with MongoDB and am excited to embark on my full-stack development journey soon!🎉
+ 🚀 I’m a passionate MERN Stack Developer from Bangladesh. I enjoy building modern, scalable, and user-friendly applications that solve real-world problems.
   </p>
 </div>
 
@@ -18,26 +18,15 @@
 <h2 align="center">I code with</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+    <img  src="https://skillicons.dev/icons?i=nextjs,react,redux,typescript,tailwindcss,vite,nodejs,express,mongodb,postgresql,vercel,git&perline=6" />
 </div>
 
 
   <h2 align="center">Current Activities🚀</h2>
 <div>
   <ul>
-    <li>Currently Learning ReactJS and Socket.io✨</li>
+    <li>Currently Learning SQL and NEXTJs✨</li>
     <li>Working on an E-commerce Project of mine 😎</li>
-    <li>Planning to make my Portfolio Website soon🎉</li>
   </ul>
 </div>
 <h2 align="center">Connect with me</h2>
@@ -49,7 +38,9 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
 </div>
-<strong>Phone No: +8801983411249📞</strong>
+<strong>Phone No: +8801983411249</strong>
+<br/>
+<strong>Email: rajaulislamratul12@gmail.com</strong>
   
 
 
