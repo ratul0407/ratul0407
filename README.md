@@ -11,7 +11,7 @@
 <h2 align="center">About Me👀</h2>
 <div>
   <p align="left">
- 🚀 I’m a passionate MERN Stack Developer from Bangladesh. I enjoy building modern, scalable, and user-friendly applications that solve real-world problems.
+ 🚀I am a passionate MERN Stack Developer from Bangladesh, specializing in crafting modern, scalable, and user-centric applications. With a keen focus on solving real-world problems, I thrive on creating efficient, high-performance solutions that enhance user experiences and drive business growth.
   </p>
 </div>
 
