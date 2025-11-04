@@ -11,7 +11,7 @@
 <h2 align="center">About Me👀</h2>
 <div>
   <p align="left">
- 🚀I am a passionate MERN Stack Developer from Bangladesh, specializing in crafting modern, scalable, and user-centric applications. With a keen focus on solving real-world problems, I thrive on creating efficient, high-performance solutions that enhance user experiences and drive business growth.
+ 🚀I am a passionate MERN Stack Developer from Bangladesh, specializing in crafting modern, scalable, and user-centric applications. With a keen focus on solving real-world problems. One Day I will create something that will inspire many. 
   </p>
 </div>
 
@@ -27,7 +27,7 @@
   <h2 align="center">Current Activities🚀</h2>
 <div>
   <ul>
-    <li>Currently Learning SQL and NEXTJs✨</li>
+    <li>Currently Learning Prisma and NextJS✨</li>
     <li>Working on an E-commerce Project of mine 😎</li>
   </ul>
 </div>
