@@ -4,8 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=CA4F4F&width=435&lines=Hi+There+I+am+Ratul" alt="Typing SVG" /></a>
 <div align="center">
 <div style="text-align: center;">
-    <img width="70%" src="https://nirzak-streak-stats.vercel.app?user=ratul0407&theme=blood-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-<!--     <img style="display: inline-block; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=ratul0407&theme=bear" alt="GitHub Stats" /> -->
+    <img width="70%" src="https://nirzak-streak-stats.onrender.com?user=ratul0407&theme=blood-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <!-- <img style="display: inline-block; width: 45%;" src="https://github-readme-stats-phi-green-66.vercel.app/api?username=ratul0407&theme=bear" alt="GitHub Stats" /> -->
 </div>
 </div>
 <h2 align="center">About Me👀</h2>
